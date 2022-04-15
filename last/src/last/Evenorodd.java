@@ -21,7 +21,7 @@ public class Evenorodd {
 		        System.out.print( "Odd" );
 		
 
-		// TODO Auto-generated method stub
+		
 
 	}
 

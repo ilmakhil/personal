@@ -17,6 +17,7 @@ public class PRACTM {
 	
 static int small(int p,int q,int r)
 {
-	return Math.min(Math.min(q, r),p);
+	return  ((p+q+r)/3);
+	
 }
 }
